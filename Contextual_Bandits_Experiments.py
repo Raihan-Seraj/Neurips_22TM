@@ -1646,32 +1646,32 @@ def covertype_experiment():
 -----------------------------------------------------------------------RUNNING THE EXPERIMENTS------------------------------------------------------- 
 
 '''
-# print("Running Iris Experiment")
-# iris_experiment()
+print("Running Iris Experiment")
+iris_experiment()
 
-# print("Running breast cancer experiment")
-# breast_cancer_experiment()
+print("Running breast cancer experiment")
+breast_cancer_experiment()
 
-# print("Running noisy xor experiment")
-# noisy_xor_experiment()
+print("Running noisy xor experiment")
+noisy_xor_experiment()
 
 print("Running Simulated Article Experiment")
 simulated_article_experiment()
 
-# print('Running Movielens Experiment')
-# movielens_experiment()
+print('Running Movielens Experiment')
+movielens_experiment()
 
-# print('Running Adult Data Experiment')
-# adult_experiment()
+print('Running Adult Data Experiment')
+adult_experiment()
 
-# print('Running Statlog(Shuttle) Experiment')
-# statlog_shuttle_experiment()
+print('Running Statlog(Shuttle) Experiment')
+statlog_shuttle_experiment()
 
-# print("Running Mnist Flat Experiment")
-# mnist_flat_experiment()
+print("Running Mnist Flat Experiment")
+mnist_flat_experiment()
 
 
-# print("Running Covertype Experiment")
+print("Running Covertype Experiment")
 
-# covertype_experiment()
+covertype_experiment()
 
